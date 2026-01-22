@@ -11,7 +11,7 @@ The project aimed to break down the demographic and professional composition of 
 
 ---
 
-##Tools & Technologies
+## Tools & Technologies
 - **Data Source** - Survey data collected from professionals working in data-related roles, including information on job titles, salaries, experience levels, geographic location, and professional opinions.
 - **Power Query (Power BI)** -Power Query Editor was used extensively for data cleaning and preparation.
   - Removed redundant and ambiguous fields
