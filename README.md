@@ -38,4 +38,4 @@ The project aimed to break down the demographic and professional composition of 
   ---
 
 ## Visual Dashboard Preview
- ![Data Professional Insights]([[https://github.com/user-attachments/assets/73fdc21c-183c-4f9b-bbeb-b3d75ba4428b](https://github.com/stefanoq58/Data-Professional-Insights-Analyzing-Roles-Opinions-and-Industry-Trends/blob/main/Data%20Professional%20Insights.jpg?raw=true)](https://github.com/stefanoq58/Data-Professional-Insights-Analyzing-Roles-Opinions-and-Industry-Trends/blob/81221df325bc22bb128cddfbf999bc86b005522c/Data%20Professional%20Insights.jpg))
+![Data Professional Insights]([https://github.com/user-attachments/assets/73fdc21c-183c-4f9b-bbeb-b3d75ba4428b])
